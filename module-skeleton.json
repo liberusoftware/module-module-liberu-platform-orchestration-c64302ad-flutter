@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-platform-orchestration-c64302ad-flutter",
+  "capabilityKey": "liberusoftware/module-liberu-platform-orchestration",
+  "presentation": "mobile-flutter",
+  "package": "module_module_liberu_platform_orchestration_c64302ad_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/accounting/flutter/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
